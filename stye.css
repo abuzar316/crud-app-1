@@ -1,0 +1,10 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+input{outline: 0;border: none; background: #dedede;}
+#submit{outline: 0;border: none;}
+.input-form {padding: 30px;}
+.input-form input,.table-data input{width:100% ;padding: 5px 12px;border-radius: 5px;}
+.table-data{padding: 25px;}
+select:focus{box-shadow: none!important;}
+.table-data button{width: 100%;}
+.inp-box{margin-bottom: 15px;}
+#msg{color: red;}
